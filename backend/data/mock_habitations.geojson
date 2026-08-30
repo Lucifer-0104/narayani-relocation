@@ -1,0 +1,391 @@
+{
+  "type": "FeatureCollection",
+  "name": "mock_habitations",
+  "source": "SYNTHETIC_DEMO_DATA",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H01",
+        "name": "Rapti Tole",
+        "block": "Rapti",
+        "population": 4200,
+        "households": 824,
+        "flood_exposure": 0.88,
+        "erosion_m_yr": 9.5,
+        "landslide_exposure": 0.05,
+        "seismic_exposure": 0.55,
+        "historical_events_10yr": 7,
+        "land_loss_ha_10yr": 42.0,
+        "poverty_ratio": 0.42,
+        "kutcha_housing_ratio": 0.61,
+        "elderly_ratio": 0.11,
+        "child_ratio": 0.34,
+        "road_access_km": 6.5,
+        "nearest_hospital_km": 14.0,
+        "elevation_m": 58.0,
+        "distance_to_river_m": 180.0,
+        "electricity_hours": 9.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.312,
+          27.612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H02",
+        "name": "Khairahani Basti",
+        "block": "Khairahani",
+        "population": 3100,
+        "households": 608,
+        "flood_exposure": 0.81,
+        "erosion_m_yr": 11.2,
+        "landslide_exposure": 0.03,
+        "seismic_exposure": 0.5,
+        "historical_events_10yr": 6,
+        "land_loss_ha_10yr": 55.0,
+        "poverty_ratio": 0.38,
+        "kutcha_housing_ratio": 0.55,
+        "elderly_ratio": 0.1,
+        "child_ratio": 0.33,
+        "road_access_km": 8.2,
+        "nearest_hospital_km": 17.5,
+        "elevation_m": 54.0,
+        "distance_to_river_m": 90.0,
+        "electricity_hours": 8.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.345,
+          27.598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H03",
+        "name": "Ratnanagar Chowk",
+        "block": "Ratnanagar",
+        "population": 5600,
+        "households": 1098,
+        "flood_exposure": 0.42,
+        "erosion_m_yr": 2.1,
+        "landslide_exposure": 0.04,
+        "seismic_exposure": 0.48,
+        "historical_events_10yr": 2,
+        "land_loss_ha_10yr": 6.0,
+        "poverty_ratio": 0.24,
+        "kutcha_housing_ratio": 0.28,
+        "elderly_ratio": 0.09,
+        "child_ratio": 0.29,
+        "road_access_km": 2.1,
+        "nearest_hospital_km": 5.0,
+        "elevation_m": 98.0,
+        "distance_to_river_m": 1400.0,
+        "electricity_hours": 17.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.402,
+          27.633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H04",
+        "name": "Kalika Danda",
+        "block": "Kalika",
+        "population": 2100,
+        "households": 412,
+        "flood_exposure": 0.18,
+        "erosion_m_yr": 0.4,
+        "landslide_exposure": 0.62,
+        "seismic_exposure": 0.58,
+        "historical_events_10yr": 3,
+        "land_loss_ha_10yr": 3.0,
+        "poverty_ratio": 0.46,
+        "kutcha_housing_ratio": 0.58,
+        "elderly_ratio": 0.13,
+        "child_ratio": 0.31,
+        "road_access_km": 11.0,
+        "nearest_hospital_km": 22.0,
+        "elevation_m": 210.0,
+        "distance_to_river_m": 4200.0,
+        "electricity_hours": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.276,
+          27.655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H05",
+        "name": "Bharatpur Ward 21",
+        "block": "Bharatpur",
+        "population": 8900,
+        "households": 1745,
+        "flood_exposure": 0.31,
+        "erosion_m_yr": 1.0,
+        "landslide_exposure": 0.02,
+        "seismic_exposure": 0.45,
+        "historical_events_10yr": 1,
+        "land_loss_ha_10yr": 2.0,
+        "poverty_ratio": 0.19,
+        "kutcha_housing_ratio": 0.15,
+        "elderly_ratio": 0.08,
+        "child_ratio": 0.27,
+        "road_access_km": 1.0,
+        "nearest_hospital_km": 2.5,
+        "elevation_m": 115.0,
+        "distance_to_river_m": 2600.0,
+        "electricity_hours": 21.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.431,
+          27.667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H06",
+        "name": "Meghauli Tar",
+        "block": "Meghauli",
+        "population": 2650,
+        "households": 520,
+        "flood_exposure": 0.93,
+        "erosion_m_yr": 14.8,
+        "landslide_exposure": 0.06,
+        "seismic_exposure": 0.52,
+        "historical_events_10yr": 9,
+        "land_loss_ha_10yr": 68.0,
+        "poverty_ratio": 0.51,
+        "kutcha_housing_ratio": 0.72,
+        "elderly_ratio": 0.12,
+        "child_ratio": 0.36,
+        "road_access_km": 13.5,
+        "nearest_hospital_km": 26.0,
+        "elevation_m": 51.0,
+        "distance_to_river_m": 60.0,
+        "electricity_hours": 6.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.199,
+          27.548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H07",
+        "name": "Jutpani Chowk",
+        "block": "Jutpani",
+        "population": 3450,
+        "households": 676,
+        "flood_exposure": 0.55,
+        "erosion_m_yr": 4.6,
+        "landslide_exposure": 0.1,
+        "seismic_exposure": 0.5,
+        "historical_events_10yr": 4,
+        "land_loss_ha_10yr": 18.0,
+        "poverty_ratio": 0.33,
+        "kutcha_housing_ratio": 0.44,
+        "elderly_ratio": 0.1,
+        "child_ratio": 0.32,
+        "road_access_km": 5.0,
+        "nearest_hospital_km": 11.0,
+        "elevation_m": 72.0,
+        "distance_to_river_m": 650.0,
+        "electricity_hours": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.288,
+          27.629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H08",
+        "name": "Divyanagar Tole",
+        "block": "Divyanagar",
+        "population": 1800,
+        "households": 353,
+        "flood_exposure": 0.76,
+        "erosion_m_yr": 8.0,
+        "landslide_exposure": 0.04,
+        "seismic_exposure": 0.49,
+        "historical_events_10yr": 5,
+        "land_loss_ha_10yr": 31.0,
+        "poverty_ratio": 0.4,
+        "kutcha_housing_ratio": 0.53,
+        "elderly_ratio": 0.14,
+        "child_ratio": 0.3,
+        "road_access_km": 9.8,
+        "nearest_hospital_km": 19.0,
+        "elevation_m": 56.0,
+        "distance_to_river_m": 220.0,
+        "electricity_hours": 8.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.365,
+          27.581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H09",
+        "name": "Shivanagar Basti",
+        "block": "Shivanagar",
+        "population": 2950,
+        "households": 578,
+        "flood_exposure": 0.69,
+        "erosion_m_yr": 6.2,
+        "landslide_exposure": 0.18,
+        "seismic_exposure": 0.53,
+        "historical_events_10yr": 4,
+        "land_loss_ha_10yr": 22.0,
+        "poverty_ratio": 0.37,
+        "kutcha_housing_ratio": 0.49,
+        "elderly_ratio": 0.11,
+        "child_ratio": 0.33,
+        "road_access_km": 7.4,
+        "nearest_hospital_km": 15.5,
+        "elevation_m": 64.0,
+        "distance_to_river_m": 340.0,
+        "electricity_hours": 9.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.256,
+          27.601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H10",
+        "name": "Padampur Sadak",
+        "block": "Padampur",
+        "population": 6100,
+        "households": 1196,
+        "flood_exposure": 0.24,
+        "erosion_m_yr": 1.4,
+        "landslide_exposure": 0.03,
+        "seismic_exposure": 0.46,
+        "historical_events_10yr": 1,
+        "land_loss_ha_10yr": 4.0,
+        "poverty_ratio": 0.21,
+        "kutcha_housing_ratio": 0.2,
+        "elderly_ratio": 0.09,
+        "child_ratio": 0.28,
+        "road_access_km": 1.6,
+        "nearest_hospital_km": 4.0,
+        "elevation_m": 104.0,
+        "distance_to_river_m": 1900.0,
+        "electricity_hours": 19.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.418,
+          27.605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H11",
+        "name": "Gitanagar Ghat",
+        "block": "Gitanagar",
+        "population": 1450,
+        "households": 284,
+        "flood_exposure": 0.9,
+        "erosion_m_yr": 13.1,
+        "landslide_exposure": 0.05,
+        "seismic_exposure": 0.51,
+        "historical_events_10yr": 8,
+        "land_loss_ha_10yr": 60.0,
+        "poverty_ratio": 0.48,
+        "kutcha_housing_ratio": 0.66,
+        "elderly_ratio": 0.12,
+        "child_ratio": 0.35,
+        "road_access_km": 12.2,
+        "nearest_hospital_km": 24.0,
+        "elevation_m": 52.0,
+        "distance_to_river_m": 75.0,
+        "electricity_hours": 6.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.23,
+          27.567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H12",
+        "name": "Chainpur Danda",
+        "block": "Chainpur",
+        "population": 1980,
+        "households": 388,
+        "flood_exposure": 0.15,
+        "erosion_m_yr": 0.6,
+        "landslide_exposure": 0.58,
+        "seismic_exposure": 0.56,
+        "historical_events_10yr": 3,
+        "land_loss_ha_10yr": 2.0,
+        "poverty_ratio": 0.44,
+        "kutcha_housing_ratio": 0.56,
+        "elderly_ratio": 0.13,
+        "child_ratio": 0.32,
+        "road_access_km": 10.5,
+        "nearest_hospital_km": 21.0,
+        "elevation_m": 195.0,
+        "distance_to_river_m": 3900.0,
+        "electricity_hours": 7.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.301,
+          27.671
+        ]
+      }
+    }
+  ]
+}

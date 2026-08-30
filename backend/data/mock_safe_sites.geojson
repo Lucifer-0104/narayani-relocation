@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "name": "mock_safe_sites",
+  "source": "SYNTHETIC_DEMO_DATA",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S01",
+        "name": "Jutpani Highland Plot",
+        "usable_land_ha": 45.0,
+        "water_mld": 3.2,
+        "electricity_kw": 1800.0,
+        "school_seats": 900.0,
+        "hospital_beds": 20.0,
+        "hospitals": 1.0,
+        "env_constraint": 0.1,
+        "existing_population": 300,
+        "flood_safety": 0.92,
+        "landslide_safety": 0.8,
+        "seismic_safety": 0.78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.27,
+          27.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S02",
+        "name": "Ratnanagar Resettlement Block",
+        "usable_land_ha": 60.0,
+        "water_mld": 4.5,
+        "electricity_kw": 2600.0,
+        "school_seats": 1400.0,
+        "hospital_beds": 35.0,
+        "hospitals": 1.0,
+        "env_constraint": 0.08,
+        "existing_population": 850,
+        "flood_safety": 0.9,
+        "landslide_safety": 0.88,
+        "seismic_safety": 0.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.41,
+          27.648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S03",
+        "name": "Kalika Danda Extension",
+        "usable_land_ha": 22.0,
+        "water_mld": 1.4,
+        "electricity_kw": 750.0,
+        "school_seats": 400.0,
+        "hospital_beds": 6.0,
+        "hospitals": 0.0,
+        "env_constraint": 0.22,
+        "existing_population": 150,
+        "flood_safety": 0.95,
+        "landslide_safety": 0.55,
+        "seismic_safety": 0.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.281,
+          27.671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S04",
+        "name": "Padampur Growth Corridor",
+        "usable_land_ha": 80.0,
+        "water_mld": 6.0,
+        "electricity_kw": 3400.0,
+        "school_seats": 2000.0,
+        "hospital_beds": 48.0,
+        "hospitals": 1.0,
+        "env_constraint": 0.06,
+        "existing_population": 1200,
+        "flood_safety": 0.88,
+        "landslide_safety": 0.9,
+        "seismic_safety": 0.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.435,
+          27.617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S05",
+        "name": "Chainpur Terrace",
+        "usable_land_ha": 18.0,
+        "water_mld": 1.1,
+        "electricity_kw": 600.0,
+        "school_seats": 350.0,
+        "hospital_beds": 4.0,
+        "hospitals": 0.0,
+        "env_constraint": 0.3,
+        "existing_population": 90,
+        "flood_safety": 0.96,
+        "landslide_safety": 0.52,
+        "seismic_safety": 0.68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.312,
+          27.685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S06",
+        "name": "Bharatpur Periphery Site",
+        "usable_land_ha": 35.0,
+        "water_mld": 2.8,
+        "electricity_kw": 1600.0,
+        "school_seats": 800.0,
+        "hospital_beds": 18.0,
+        "hospitals": 1.0,
+        "env_constraint": 0.12,
+        "existing_population": 500,
+        "flood_safety": 0.85,
+        "landslide_safety": 0.92,
+        "seismic_safety": 0.76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.447,
+          27.652
+        ]
+      }
+    }
+  ]
+}

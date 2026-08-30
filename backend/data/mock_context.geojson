@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "name": "mock_context",
+  "source": "SYNTHETIC_DEMO_DATA",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Demo District Boundary",
+        "source": "SYNTHETIC_DEMO_DATA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.18,
+              27.53
+            ],
+            [
+              84.46,
+              27.53
+            ],
+            [
+              84.46,
+              27.7
+            ],
+            [
+              84.18,
+              27.7
+            ],
+            [
+              84.18,
+              27.53
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narayani River (illustrative)",
+        "source": "SYNTHETIC_DEMO_DATA"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.199,
+            27.548
+          ],
+          [
+            84.23,
+            27.567
+          ],
+          [
+            84.256,
+            27.601
+          ],
+          [
+            84.312,
+            27.612
+          ],
+          [
+            84.345,
+            27.598
+          ],
+          [
+            84.365,
+            27.581
+          ]
+        ]
+      }
+    }
+  ]
+}

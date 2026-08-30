@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "name": "mock_infrastructure",
+  "source": "SYNTHETIC_DEMO_DATA",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bharatpur District Hospital",
+        "kind": "hospital",
+        "source": "SYNTHETIC_DEMO_DATA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.431,
+          27.667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ratnanagar PHC",
+        "kind": "hospital",
+        "source": "SYNTHETIC_DEMO_DATA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.402,
+          27.633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Padampur Grid Substation",
+        "kind": "power",
+        "source": "SYNTHETIC_DEMO_DATA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.435,
+          27.617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jutpani Community School",
+        "kind": "school",
+        "source": "SYNTHETIC_DEMO_DATA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.27,
+          27.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narayani Waterworks Intake",
+        "kind": "water",
+        "source": "SYNTHETIC_DEMO_DATA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.32,
+          27.59
+        ]
+      }
+    }
+  ]
+}
